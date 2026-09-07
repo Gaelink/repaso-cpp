@@ -1,6 +1,6 @@
 #include <cstddef>
 
-class Arreglo {
+class Arreglo { // Se uso IA para la clase
 private:
     int* datos;
     std::size_t tam;
